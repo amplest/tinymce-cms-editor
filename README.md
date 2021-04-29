@@ -29,3 +29,4 @@ tinymce.init({
   language_url: "https://cdn.jsdelivr.net/npm/tinymce-lang/langs/zh_CN.js" // site absolute URL
 });
 ```
+鸣谢: [PanJiaChen](https://github.com/PanJiaChen/tinymce-all-in-one)
